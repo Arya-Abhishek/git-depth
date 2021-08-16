@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 chole bhature
 hyderabadi biryani
 pav bhaji
-=======
 Transformers prime
 Tenet
 Inception
->>>>>>> movie
